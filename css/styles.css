@@ -73,6 +73,8 @@ h3 {
   border-bottom: none;
 }
 
+
+
 /* Navigation Bar
 ---------------------------------*/
 .navBar {
@@ -88,15 +90,15 @@ h3 {
 /* Profile 
 --------------------------------------- */
 header {
-  background-color: #2f3061;
+  background-color: #280545;
   color: #f7fff7;
 }
 
 /* Projects
 --------------------------------------- */
 .projects {
-  background-color: #f7fff7;
-}
+  background-color: #fbf7ff;
+} 
 
 .projects a {
   color: #2f3061;
@@ -125,7 +127,7 @@ header {
 /* Work Experience
 --------------------------------------- */
 .workExperience {
-  background-color: #a1c6d7;
+  background-color: #c0c3dd;
 }
 
 /*Education
@@ -140,6 +142,18 @@ header {
 .education p {
   width: 60%;
 }
+
+
+/* Skills
+--------------------------------------- */
+#skillsList li{
+  list-style-type: none;
+}
+
+.skills{
+  background-color: #e9dbb5a4;
+}
+
 
 /* Contact Info
 --------------------------------------- */
